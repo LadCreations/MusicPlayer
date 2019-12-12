@@ -1,0 +1,148 @@
+#Pause{
+	border-radius: 15px;  
+	background-color:blue;
+	position: absolute;
+	color:white;
+	font-size:30px; 
+	margin-left: 660px;
+	margin-top: 50px;
+}
+
+#container  {
+	text-align:center;
+}
+
+#tears{
+	width: 360px;
+	height: 500px;
+	padding-left: 500px;
+
+}
+
+#Tears{
+  background-color: green;
+  color: white;
+  height: 50px;
+  width: 120px;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin-left: 420px;
+}
+
+#dangerous{
+	position: initial;
+	border-width: 50%;
+	background-color: green;
+	color: white;
+	height: 50px;
+	width: 220px;
+	font-weight: bold;
+	font-size: 40px; 
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+#woman{
+	position: initial;
+	margin-top: 30px;
+	border-width: 50%;
+	background-color: green;
+	color: white;
+	height: 50px;
+	width: 220px;
+	font-weight: bold;
+	font-size: 40px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+#Party{
+	background-color: green;
+  	color: white;
+  	height: 50px;
+  	width: 150px;
+    font-size: 40px;
+    font-weight: bold;
+  	font-family: "Trebuchet MS", Helvetica, sans-serif;
+  	margin-left: 440px;
+ 	
+}
+
+#Crown{
+	position: initial;
+	border-width: 50%;
+	background-color: green;
+	color: white;
+	height: 50px;
+	width: 220px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 40px; 
+}
+
+#Bury{
+	position: initial;
+	border-width: 50%;
+	background-color: green;
+	color: white;
+	height: 50px;
+	width: 220px;
+	font-weight: bold;
+	margin-top: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 40px;
+}
+
+#be{
+	width: 450px;
+	height: 300px;
+	padding-left: 500px;
+}
+
+
+#Idek{
+  background-color: green;
+  color: white;
+  height: 50px;
+  width: 400px;
+  margin-left: 260px;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  position: static;
+}
+
+
+#Ifly{
+	background-color: green;
+	color: white;
+	height: 50px;
+	width: 220px;
+	font-weight: bold;
+	font-size: 40px; 
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+#Focus{
+	background-color: green;
+	color: white;
+	height: 50px;
+	width: 220px;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: static;
+
+}
+
+#bazzi{
+	width: 360px;
+	height: 300px;
+	padding-left: 500px;
+}
+
+
+

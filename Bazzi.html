@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Code Exam</title>
+
+</head>
+<body style="background-color: grey">
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<img id="bazzi" src="images/Bazzi.jpg">
+
+	<audio id="Idek">
+		<source src="audio/Idek.mp3" type="audio/mp3">
+	</audio>
+
+	<audio id="Ifly">
+		<source src="audio/Ifly.mp3" type="audio/mp3">
+	</audio>
+
+	<audio id="Focus">
+		<source src="audio/Focus.mp3" type="audio/mp3">
+	</audio>
+
+		<div>
+  			<button id="Idek" onclick="playSong()">IDEK you Anymore</button>
+  			<button id="Ifly" onclick="playMusic()">I.F.L.Y</button>
+			<button id="Focus" onclick="PlayMusic()">Focus</button>
+		</div>
+
+
+		<div>
+			<button id="Pause" onclick="pauseSong()"> Pause</button>
+		</div>	
+
+
+			
+
+
+	<script type="text/javascript">
+
+		var a = document.getElementById("Idek");
+		var b = document.getElementById("Ifly");
+		var c = document.getElementById("Focus");
+
+
+		var checkThis;
+		function playSong() {
+			
+			a.play();
+
+			}
+
+		var checkThis
+		function playMusic() {
+			
+			b.play();
+		}
+
+		var checkThis
+		function PlayMusic() {
+			
+			c.play();
+		}
+
+
+
+		function pauseSong() {
+			
+			a.pause(),b.pause(),c.pause()
+		}
+
+
+		function checkTime() {
+			console.log(a.currentTime); 
+		}
+
+		
+
+		</script>
+
+</body>
+</html>
